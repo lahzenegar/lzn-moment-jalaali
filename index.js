@@ -814,7 +814,7 @@ jMoment.loadPersian = function (args) {
       , sameElse: 'L'
       }
     , relativeTime:
-      { future: 'در %s'
+      { future: '%s بعد'
       , past: '%s پیش'
       , s: 'چند ثانیه'
       , m: '1 دقیقه'
